@@ -1,2 +1,3 @@
 # Manuscript
-Autor: Jana
+Autor: Jana Schütte
+
