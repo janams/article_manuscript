@@ -1,4 +1,4 @@
 # Manuscript
-Autor: Jana Schütte
-Autor: Heike Stadler
+* Autor: Jana Schütte
+* Autor: Heike Stadler
 Weitere Informationen
